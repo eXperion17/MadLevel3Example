@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnAddReminder"
         android:layout_width="178dp"
         android:layout_height="50dp"
         android:text="@string/add_reminder"
